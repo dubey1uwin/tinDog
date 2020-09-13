@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6, em {
   font-weight: 500;
 }
 
-.nav-item {
+.nav-item {.container-fluid
   padding: 0 18px;
   font-size: 2rem;
   font-weight: 500;
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6, em {
     transform: rotate(0);
   }
 
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 }
